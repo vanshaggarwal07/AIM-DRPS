@@ -1,6 +1,12 @@
-# 🔥 AIM-DRPS: Advanced Intelligent Model for Dissolution Rate Prediction System
+<div align="center">
 
-![AIM-DRPS Banner](https://via.placeholder.com/1200x400/1a1a2e/ffffff?text=AIM-DRPS+Advanced+Explosive+Risk+Analysis)
+# 🔥 AIM-DRPS: Advanced Intelligent Model for Degradation and Risk Prediction System
+
+[![GitHub license](https://img.shields.io/github/license/vanshaggarwal07/AIM-DRPS?style=for-the-badge)](https://github.com/vanshaggarwal07/AIM-DRPS/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/vanshaggarwal07/AIM-DRPS?style=for-the-badge)](https://github.com/vanshaggarwal07/AIM-DRPS/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/vanshaggarwal07/AIM-DRPS?style=for-the-badge)](https://github.com/vanshaggarwal07/AIM-DRPS/issues)
+
+</div>
 
 ## 🚀 Overview
 AIM-DRPS is an intelligent system designed to predict explosive dissolution rates and assess associated risks using machine learning. This application helps in analyzing and predicting the behavior of different explosive materials under various conditions, ensuring safety and efficiency in industrial applications.
@@ -88,5 +94,5 @@ For any questions or feedback, please contact [Your Email] or open an issue on G
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name | 2023
+  Made with ❤️ by VANSH AGGARWAL | 2025
 </div>
