@@ -40,7 +40,7 @@ AIM-DRPS is an intelligent system designed to predict explosive dissolution rate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aim-drps.git
+   git clone https://github.com/vanshaggarwal07/aim-drps.git
    cd aim-drps
    ```
 
