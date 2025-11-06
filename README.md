@@ -1,11 +1,28 @@
 <div align="center">
 
-# 🔥 AIM-DRPS: Advanced Intelligent Model for Degradation and Risk Prediction System
+```
+    █████╗ ██╗██╗███╗   ███╗██████╗ ██████╗ ███████╗
+   ██╔══██╗██║██║████╗ ████║██╔══██╗██╔══██╗██╔════╝
+   ███████║██║██║██╔████╔██║██████╔╝██████╔╝███████╗
+   ██╔══██║██║██║██║╚██╔╝██║██╔══██╗██╔══██╗╚════██║
+   ██║  ██║██║██║██║ ╚═╝ ██║██████╔╝██║  ██║███████║
+   ╚═╝  ╚═╝╚═╝╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝
+   Advanced Intelligent Model for Degradation and Risk Prediction System
+```
 
-[![GitHub license](https://img.shields.io/github/license/vanshaggarwal07/AIM-DRPS?style=for-the-badge)](https://github.com/vanshaggarwal07/AIM-DRPS/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/vanshaggarwal07/AIM-DRPS?style=for-the-badge)](https://github.com/vanshaggarwal07/AIM-DRPS/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/vanshaggarwal07/AIM-DRPS?style=for-the-badge)](https://github.com/vanshaggarwal07/AIM-DRPS/issues)
+[![GitHub license](https://img.shields.io/github/license/vanshaggarwal07/AIM-DRPS?style=for-the-badge&color=blueviolet)](https://github.com/vanshaggarwal07/AIM-DRPS/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/vanshaggarwal07/AIM-DRPS?style=for-the-badge&color=blueviolet)](https://github.com/vanshaggarwal07/AIM-DRPS/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/vanshaggarwal07/AIM-DRPS?style=for-the-badge&color=blueviolet)](https://github.com/vanshaggarwal07/AIM-DRPS/issues)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blueviolet?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
+</div>
+
+<div align="center">
+  <h2>🔬 AI-Powered Risk Assessment & Prediction System</h2>
+  <p>Leveraging Machine Learning for Explosive Material Analysis</p>
+  
+  ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
 ## 🚀 Overview
